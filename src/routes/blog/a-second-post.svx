@@ -1,0 +1,23 @@
+---
+title: "Here's a second post"
+slug: 'a-second-post'
+description: "A second post on the template"
+---
+
+<svelte:head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.15.2/dist/katex.css" integrity="sha384-NFGicHNcq1l2DafLerXQeI3h3jJY3dCcDQF+29rtRBHW7P7ti+/XIRY7ALbJOaeh" crossorigin="anonymous">
+</svelte:head>
+
+
+# The second post title
+
+__Some bold content__
+
+
+# Testing math
+
+
+```math
+    L = \frac{1}{2} \rho v^2 S C_L
+```
+
